@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("image/240_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg");
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+}
+form{
+    
+   margin: 145px 613px;
+   border: 2px solid #0959c3;
+border-radius: 7px 7px 7px 7px;
+box-shadow: 0px 0px 8px rgb(57, 56, 56);
+background-color: rgba(250, 250, 250, 0.2);
+
+   
+}
+
+
+h1{
+    text-align: center;
+  margin-top: 20px;
+  color: #0959c3;
+  font-family: 'Poppins', sans-serif;
+  text-shadow: 2px 2px 2px rgb(34, 34, 34);
+
+}
+div{
+    /* border: 1px solid black; */
+    width: 290px;
+}
+.text,.password{
+    margin: 10px 22px;
+    padding: 4px;
+    border-radius: 30px;
+    width: 245px;
+    height: 35px;
+    background-color: rgba(250, 250, 250, 0.2);
+    border-bottom: 1px solid black;
+
+    
+}
+.checkbox{
+    padding: 10ox;
+   color: white;
+    margin-left: 30px;
+    
+    width: 15px;
+}
+.reminder{
+    color: rgb(0, 0, 0);
+   margin-left: ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px ;
+    
+}
+.Login{
+    margin: 30px 22px;
+    padding: 10px 65px;
+    background-color: #0959c3;
+    color: white;
+    border: none;
+    font-size: 17px;
+border-radius: 30px;
+font-weight: bold;
+width: 245px;
+    height: 35px;
+}
+.Login:hover{
+    background-color: darkcyan;
+    color: white;
+}
+
+.designer-name{
+    box-sizing: border-box;
+    font-family: 'Arimo', sans-serif;
+font-family: 'Poppins', sans-serif;
+text-align: center;
+margin: 30px 615px;
+color: rgb(0, 0, 0);
+
+
+}
+
+h6{
+    color: rgb(0, 81, 255);
+    text-decoration: underline;
+}
+.d-f{
+    text-transform: capitalize;
+    margin: 10px 10px 30px 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+
+}
+
+
+
+
